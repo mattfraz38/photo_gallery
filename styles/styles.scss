@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.gallery {
+  margin: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+
+  img {
+    width: 30%;
+
+  }
+}
